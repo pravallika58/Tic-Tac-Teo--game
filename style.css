@@ -7,10 +7,10 @@
 }
 ::selection{
   color: #fff;
-  background:#56baed;
+  background:#98FB98;
 }
 body{
-  background:#56baed;
+  background:#98FB98;
 }
 .select-box, .play-board, .result-box{
   position: absolute;
